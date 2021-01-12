@@ -1,0 +1,4 @@
+READ ME FILE FOR ALL API PROGRAMS
+
+These programs will not work unless you (1) register for a API user ID on the BEA/WTO website 
+and insert it in the code where it says "YOUR_USER_ID" and (2) set modify filepaths for writing/saving/importing files.

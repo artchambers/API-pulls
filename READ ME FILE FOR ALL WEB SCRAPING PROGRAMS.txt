@@ -1,0 +1,1 @@
+For web scraping programs, user must have Docker installed and running before beginning program. If docker is not installed, refer to comments for manually downloading desired files with provided URLs. Docker is required for scraping.
